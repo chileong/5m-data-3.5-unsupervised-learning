@@ -17,17 +17,13 @@ Refer to the following markdown file for the respective sections of the class:
 
 ## Lesson Objectives
 
-Learners will understand:
+At the end of the lesson, learners shall be able to:
 
-- What are outliers and anomalies and how to detect them
-- Dimensionality reduction techniques
-- Clustering techniques
+* Identify and resolve **outliers and anomalies** within a dataset by applying statistical or machine learning detection methods to ensure data integrity.
 
-Learners will be able to:
+* Employ **dimensionality reduction** techniques to condense high-dimensional data into optimized feature sets while preserving essential variance.
 
-- Detect outliers and anomalies
-- Perform dimensionality reduction to reduce the number of features
-- Perform clustering to group similar data points together
+* Execute **clustering algorithms** to segment data points into distinct, homogeneous groups based on shared characteristics.
 
 ## Lesson Plan
 
